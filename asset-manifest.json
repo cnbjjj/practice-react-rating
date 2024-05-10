@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/practice-react-rating/static/css/main.1336b811.css",
+    "main.js": "/practice-react-rating/static/js/main.f827aa66.js",
+    "index.html": "/practice-react-rating/index.html",
+    "main.1336b811.css.map": "/practice-react-rating/static/css/main.1336b811.css.map",
+    "main.f827aa66.js.map": "/practice-react-rating/static/js/main.f827aa66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1336b811.css",
+    "static/js/main.f827aa66.js"
+  ]
+}
